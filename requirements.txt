@@ -15,7 +15,7 @@ googleapis-common-protos==1.51.0
 httplib2==0.17.3
 idna==2.9
 jmespath==0.9.5
-localstack==0.10.8
+localstack==0.12.11
 localstack-client==0.23
 localstack-ext==0.10.133
 protobuf==3.11.3
