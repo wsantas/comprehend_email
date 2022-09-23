@@ -18,7 +18,7 @@ jmespath==0.9.5
 localstack==0.10.8
 localstack-client==0.23
 localstack-ext==0.10.133
-protobuf==3.11.3
+protobuf==3.18.3
 pyaes==1.6.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
